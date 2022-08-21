@@ -1,0 +1,6 @@
+C:\Yogesh_Data\Test\Gartner\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Yogesh_Data\Test\Gartner\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Yogesh_Data\Test\Gartner\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Yogesh_Data\Test\Gartner\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Yogesh_Data\Test\Gartner\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Yogesh_Data\Test\Gartner\EntityLayer\obj\Debug\EntityLayer.pdb

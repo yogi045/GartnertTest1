@@ -1,0 +1,16 @@
+C:\Yogesh_Data\Test\Gartner\BusinessClasses\bin\Debug\BusinessClasses.dll.config
+C:\Yogesh_Data\Test\Gartner\BusinessClasses\bin\Debug\BusinessClasses.dll
+C:\Yogesh_Data\Test\Gartner\BusinessClasses\bin\Debug\BusinessClasses.pdb
+C:\Yogesh_Data\Test\Gartner\BusinessClasses\bin\Debug\Interfaces.dll
+C:\Yogesh_Data\Test\Gartner\BusinessClasses\bin\Debug\Interfaces.pdb
+C:\Yogesh_Data\Test\Gartner\BusinessClasses\bin\Debug\Interfaces.dll.config
+C:\Yogesh_Data\Test\Gartner\BusinessClasses\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Yogesh_Data\Test\Gartner\BusinessClasses\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Yogesh_Data\Test\Gartner\BusinessClasses\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Yogesh_Data\Test\Gartner\BusinessClasses\obj\Debug\BusinessClasses.dll
+C:\Yogesh_Data\Test\Gartner\BusinessClasses\obj\Debug\BusinessClasses.pdb
+C:\Yogesh_Data\Test\Gartner\BusinessClasses\bin\Debug\YamlDotNet.dll
+C:\Yogesh_Data\Test\Gartner\BusinessClasses\bin\Debug\YamlDotNet.xml
+C:\Yogesh_Data\Test\Gartner\BusinessClasses\bin\Debug\EntityLayer.dll
+C:\Yogesh_Data\Test\Gartner\BusinessClasses\bin\Debug\EntityLayer.pdb
+C:\Yogesh_Data\Test\Gartner\BusinessClasses\bin\Debug\EntityLayer.dll.config

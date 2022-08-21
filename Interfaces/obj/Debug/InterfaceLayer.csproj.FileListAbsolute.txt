@@ -1,0 +1,11 @@
+C:\Yogesh_Data\Test\Gartner\Interfaces\bin\Debug\Interfaces.dll.config
+C:\Yogesh_Data\Test\Gartner\Interfaces\bin\Debug\Interfaces.dll
+C:\Yogesh_Data\Test\Gartner\Interfaces\bin\Debug\Interfaces.pdb
+C:\Yogesh_Data\Test\Gartner\Interfaces\obj\Debug\InterfaceLayer.csproj.CoreCompileInputs.cache
+C:\Yogesh_Data\Test\Gartner\Interfaces\obj\Debug\Interfaces.dll
+C:\Yogesh_Data\Test\Gartner\Interfaces\obj\Debug\Interfaces.pdb
+C:\Yogesh_Data\Test\Gartner\Interfaces\obj\Debug\InterfaceLayer.csproj.AssemblyReference.cache
+C:\Yogesh_Data\Test\Gartner\Interfaces\bin\Debug\EntityLayer.dll
+C:\Yogesh_Data\Test\Gartner\Interfaces\bin\Debug\EntityLayer.pdb
+C:\Yogesh_Data\Test\Gartner\Interfaces\bin\Debug\EntityLayer.dll.config
+C:\Yogesh_Data\Test\Gartner\Interfaces\obj\Debug\InterfaceLayer.csproj.CopyComplete
